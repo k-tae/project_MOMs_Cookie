@@ -1,4 +1,4 @@
-# MOMS Cookie: 현대인의 바쁜 일상을 완벽하게 해주는 엄마같은 비서
+# MOMS Cookie: 현대인의 바쁜 아침을 완벽하게 해주는 엄마같은 비서
 
 <div align="center">
   <p>더이상의 5분만은 없다</p>
