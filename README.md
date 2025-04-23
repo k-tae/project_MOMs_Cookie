@@ -35,7 +35,19 @@
 
 ## 📁 프로젝트 구조
 
-project_MOMs_Cookie/ ├── App/calendar # 일정 관리 모듈 ├── BUZZER # 알람 기능 구현 ├── GPT4_Turbo # AI 비서 기능 ├── sensor_led # STM32 센서/LED 제어 ├── wifi_module_arduinomega # Wi-Fi 통신 모듈 ├── 서버 및 브릿지(API)/final # API 서버 및 통신 브릿지 ├── 시연영상 # 시연 영상 └── 회로도 # 하드웨어 회로도
+```plaintext
+project_MOMs_Cookie/
+├── App/
+│   └── calendar/                # 일정 관리 모듈
+├── BUZZER/                      # 알람 기능 구현
+├── GPT4_Turbo/                  # AI 비서 기능
+├── sensor_led/                  # 센서 및 LED 제어 (STM32 기반)
+├── wifi_module_arduinomega/     # Wi-Fi 통신 모듈 (Arduino Mega 기반)
+├── 서버 및 브릿지(API)/
+│   └── final/                   # API 서버 및 브릿지 구현
+├── 시연영상/                    # 프로젝트 시연 영상
+└── 회로도/                      # 하드웨어 회로도
+
 
 ---
 
