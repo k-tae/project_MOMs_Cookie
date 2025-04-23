@@ -35,7 +35,7 @@
 
 ## 📁 프로젝트 구조
 
-```plaintext
+
 project_MOMs_Cookie/
 ├── App/
 │   └── calendar/                # 일정 관리 모듈
@@ -47,7 +47,6 @@ project_MOMs_Cookie/
 │   └── final/                   # API 서버 및 브릿지 구현
 ├── 시연영상/                    # 프로젝트 시연 영상
 └── 회로도/                      # 하드웨어 회로도
-```
 
 ---
 
