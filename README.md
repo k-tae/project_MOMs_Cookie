@@ -31,15 +31,6 @@
 
 <img src="https://img.shields.io/badge/cmake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"> <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
-## 개발자
-<div align="center">
-
-|권태형|이종범|임소연|김병성|
-|:------:|:------:|:------:|:------:|
-| <a href="https://github.com/k-tae"><img width="150px" style="max-width: 100%;" src="https://github.com/k-tae.png"></a> | <a href="https://github.com/whdqja1128"><img width="150px" style="max-width: 100%;" src="https://github.com/whdqja1128.png"></a> | <a href="https://github.com/imso01"><img width="150px" style="max-width: 100%;" src="https://github.com/imso01.png"></a> | <a href="https://github.com/kimbseong0814"><img width="150px" style="max-width: 100%;" src="https://github.com/kimbseong0814.png"></a> |
-
-</div>
-
 ---
 
 ## 📽️ 시연 영상
@@ -51,6 +42,17 @@
 ## 📄 회로도
 
 하드웨어 회로도는 [여기](https://github.com/k-tae/project_MOMs_Cookie/tree/main/%ED%9A%8C%EB%A1%9C%EB%8F%84)에서 확인하실 수 있습니다.
+
+---
+
+## 개발자
+<div align="center">
+
+|권태형|이종범|임소연|김병성|
+|:------:|:------:|:------:|:------:|
+| <a href="https://github.com/k-tae"><img width="150px" style="max-width: 100%;" src="https://github.com/k-tae.png"></a> | <a href="https://github.com/whdqja1128"><img width="150px" style="max-width: 100%;" src="https://github.com/whdqja1128.png"></a> | <a href="https://github.com/imso01"><img width="150px" style="max-width: 100%;" src="https://github.com/imso01.png"></a> | <a href="https://github.com/kimbseong0814"><img width="150px" style="max-width: 100%;" src="https://github.com/kimbseong0814.png"></a> |
+
+</div>
 
 ---
 
