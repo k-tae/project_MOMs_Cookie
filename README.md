@@ -1,4 +1,4 @@
-# 🍪 MOMS Cookie : 현대인의 바쁜 아침을 완벽하게 해주는 엄마같은 비서
+# 🍪 MOMS Cookie : 아침이 두려운 당신을 위해, 엄마처럼 챙겨주는 스마트 알람 비서
 
 <div align="center">
   <p>더이상의 "5분만 더"는 없다</p>
@@ -8,8 +8,27 @@
 
 ## 🧠 프로젝트 소개
 
-**MOM's Cookie**는 바쁜 현대인의 아침을 효율적으로 관리해주는 스마트 비서 시스템입니다.  
+**MOM's Cookie는** 센서, AI, Wi-Fi 연동 기능을 갖춘 스마트 알람 시스템으로, 바쁜 현대인의 아침을 자동화해주는 IoT 기반의 AI 비서 프로젝트입니다.
 하드웨어와 소프트웨어를 통합하여, 사용자의 아침 루틴을 자동화하고 최적화합니다.
+
+---
+
+## 💡 주요 기능
+
+- **AI 비서 기능**  
+  사용자의 음성을 인식해 GPT-4 Turbo를 통해 아침 인사, 일정 요약, 날씨 정보 등을 제공합니다.
+
+- **센서 기반 자동 알람**  
+  온습도, 빛 감지 등을 바탕으로 알람 조건을 자동 설정하고, 상황에 따라 맞춤형 반응을 합니다.
+
+- **일정 관리 연동**  
+  Google Calendar와 연동해 당일 일정을 음성으로 안내합니다.
+
+- **하드웨어 제어**  
+  STM32, Arduino Mega, ESP8266 등의 보드를 통해 센서 및 출력 장치를 제어합니다.
+
+- **Wi-Fi 통신 모듈**  
+  ESP32를 통해 서버와 통신하여 API로 데이터를 주고받고, 비서 기능과 일정 기능을 연결합니다.
 
 ---
 
@@ -30,6 +49,14 @@
 ✅ 빌드 & 개발 환경
 
 <img src="https://img.shields.io/badge/cmake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"> <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+
+---
+
+## 🧩 시스템 구성도 (간략)
+
+```plaintext
+[사용자] ↓ 음성 인식 [ESP32 - WiFi] ←→ [Flask 서버(API)] ←→ [GPT-4 Turbo] ↓ 센서 입력 (온도/조도 등) [STM32, Arduino Mega] ↓ [알람 출력, 디스플레이 등]
+```
 
 ---
 
