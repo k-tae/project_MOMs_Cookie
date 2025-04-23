@@ -104,12 +104,13 @@ project_MOMs_Cookie/
 
 ---
 
-## 개발자
+## 👨‍💻 개발자
 <div align="center">
 
-|권태형(팀장)|이종범(부팀장)|임소연|김병성|
+|권태형 (팀장)|이종범 (부팀장)|임소연|김병성|
 |:------:|:------:|:------:|:------:|
-| <a href="https://github.com/k-tae"><img width="150px" style="max-width: 100%;" src="https://github.com/k-tae.png"></a> | <a href="https://github.com/whdqja1128"><img width="150px" style="max-width: 100%;" src="https://github.com/whdqja1128.png"></a> | <a href="https://github.com/imso01"><img width="150px" style="max-width: 100%;" src="https://github.com/imso01.png"></a> | <a href="https://github.com/kimbseong0814"><img width="150px" style="max-width: 100%;" src="https://github.com/kimbseong0814.png"></a> |
+| <a href="https://github.com/k-tae"><img width="150px" src="https://github.com/k-tae.png"></a> <br> ESP32 Wi-Fi 모듈 개발<br> GPT-4 Turbo 비서 기능 구현<br> 시스템 통합 및 전체 설계 | <a href="https://github.com/whdqja1128"><img width="150px" src="https://github.com/whdqja1128.png"></a> <br> Arduino 회로 설계 및 제어<br> TurtleBot3 음성 입출력 구현 | <a href="https://github.com/imso01"><img width="150px" src="https://github.com/imso01.png"></a> <br> 서버 및 앱 개발<br> Open API 연동<br> Flutter 앱 구현 | <a href="https://github.com/kimbseong0814"><img width="150px" src="https://github.com/kimbseong0814.png"></a> <br> STM32 제어 로직 개발<br> 하드웨어 통합 및 출력 제어 |
+</div>
 
 </div>
 
