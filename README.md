@@ -98,17 +98,17 @@ project_MOMs_Cookie/
 
 [![집 모형 영상](https://img.youtube.com/vi/5lrZhdnCsUQ/0.jpg)](https://www.youtube.com/watch?v=5lrZhdnCsUQ)
 
----
+**비서 영상**
 
-**집 모형 영상**
+[![비서 영상](https://img.youtube.com/vi/XxtjYidWHaY/0.jpg)](https://www.youtube.com/watch?v=XxtjYidWHaY)
 
-[![집 모형 영상](https://img.youtube.com/vi/5lrZhdnCsUQ/0.jpg)](https://www.youtube.com/watch?v=5lrZhdnCsUQ)
+**이동 영상**
 
----
+[![이동 영상](https://img.youtube.com/vi/aUj_fFZd_fU/0.jpg)](https://www.youtube.com/watch?v=aUj_fFZd_fU)
 
-**집 모형 영상**
+**일정 앱 영상**
 
-[![집 모형 영상](https://img.youtube.com/vi/5lrZhdnCsUQ/0.jpg)](https://www.youtube.com/watch?v=5lrZhdnCsUQ)
+[![이동 영상](https://img.youtube.com/vi/PCXicM8Uy2o/0.jpg)](https://www.youtube.com/watch?v=PCXicM8Uy2o)
 
 ---
 
