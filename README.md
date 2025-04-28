@@ -98,19 +98,25 @@ project_MOMs_Cookie/
 
 [![집 모형 영상](https://img.youtube.com/vi/5lrZhdnCsUQ/0.jpg)](https://www.youtube.com/watch?v=5lrZhdnCsUQ)
 
+- 알람이 울리면 안방 불(초록색 LED)와 보일러(빨간색 LED)가 자동으로 켜지며 기상 및 씻기 위한 준비를 한다. 그리고 수위가 높아지면 가습기(노란 LED)가 켜지며 물을 비우라는 알림을 준다.
+
 **비서 영상**
 
 [![비서 영상](https://img.youtube.com/vi/XxtjYidWHaY/0.jpg)](https://www.youtube.com/watch?v=XxtjYidWHaY)
+
+- 날씨 및 미세먼지 API를 통해 얻은 정보와 일정 앱을 통해 등록한 일정을 chat-gpt에게 전달해 자연스럽게 tts로 전달받는다. 또한, 챗봇처럼 궁금한 것을 물어보면 tts를 통해 답변을 들을 수 있다.
 
 **이동 영상**
 
 [![이동 영상](https://img.youtube.com/vi/aUj_fFZd_fU/0.jpg)](https://www.youtube.com/watch?v=aUj_fFZd_fU)
 
-**일정 앱 영상**
+- 알람이 울리면 자동으로 침실에서 부엌으로 이동해 사용자가 물을 마시고 정신을 차릴 수 있게 도와준다. 이후 앱, 음성, 버튼을 통해 원하는 장소로 Cookie를 이동시킬 수 있다.
+
+**애플리케이션 영상**
 
 [![이동 영상](https://img.youtube.com/vi/PCXicM8Uy2o/0.jpg)](https://www.youtube.com/watch?v=PCXicM8Uy2o)
 
----
+- 일정 및 알람을 등록할 수 있는 기능이 있다. 또한, 원하는 장소로 Cookie를 이동시킬 수 있다. 영상에서는 일정을 등록하는 장면이 나온다.
 
 ---
 
