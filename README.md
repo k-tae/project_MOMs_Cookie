@@ -96,7 +96,7 @@ project_MOMs_Cookie/
 
 **집 모형 영상**
 
-[![집 모형 영상](http://youtube.com/watch?v=5lrZhdnCsUQ&feature=youtu.be)
+[![집 모형 영상](http://youtube.com/watch?v=5lrZhdnCsUQ&feature=youtu.be)]
 
 ---
 
